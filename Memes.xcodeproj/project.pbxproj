@@ -13,10 +13,33 @@
 		22082D772A4D893300B5520B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22082D762A4D893300B5520B /* Preview Assets.xcassets */; };
 		2280323E2A4DD72300BB501C /* MemeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2280323D2A4DD72300BB501C /* MemeModel.swift */; };
 		228032402A4DD84600BB501C /* egg.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280323F2A4DD84600BB501C /* egg.mp4 */; };
-		228032422A4DD87100BB501C /* shrek4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 228032412A4DD87100BB501C /* shrek4.jpeg */; };
 		228032442A4DD91500BB501C /* kairosh1.png in Resources */ = {isa = PBXBuildFile; fileRef = 228032432A4DD91400BB501C /* kairosh1.png */; };
 		228032462A4DDA5400BB501C /* AVPlayerViewWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228032452A4DDA5400BB501C /* AVPlayerViewWrapper.swift */; };
 		2280324A2A4DEC5100BB501C /* didar.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032492A4DEC5100BB501C /* didar.mp4 */; };
+		228032542A4E069A00BB501C /* aktau_sila.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280324B2A4E069A00BB501C /* aktau_sila.mp4 */; };
+		228032552A4E069A00BB501C /* chotam.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280324C2A4E069A00BB501C /* chotam.mp4 */; };
+		228032562A4E069A00BB501C /* bas_shu.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280324D2A4E069A00BB501C /* bas_shu.mp4 */; };
+		228032572A4E069A00BB501C /* bank_kartoshkasy.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280324E2A4E069A00BB501C /* bank_kartoshkasy.mp4 */; };
+		228032582A4E069A00BB501C /* sorpa.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280324F2A4E069A00BB501C /* sorpa.mp4 */; };
+		228032592A4E069A00BB501C /* rinat.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032502A4E069A00BB501C /* rinat.mp4 */; };
+		2280325A2A4E069A00BB501C /* kaban.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032512A4E069A00BB501C /* kaban.mp4 */; };
+		2280325B2A4E069A00BB501C /* menin_omirim.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032522A4E069A00BB501C /* menin_omirim.mp4 */; };
+		2280325C2A4E069A00BB501C /* shashlyk.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032532A4E069A00BB501C /* shashlyk.mp4 */; };
+		228032612A4E213D00BB501C /* MemeCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228032602A4E213D00BB501C /* MemeCollectionView.swift */; };
+		228032632A4E215F00BB501C /* MemeCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228032622A4E215F00BB501C /* MemeCardView.swift */; };
+		228032692A4E282E00BB501C /* CategoryCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228032682A4E282E00BB501C /* CategoryCollectionView.swift */; };
+		2280326B2A4E286B00BB501C /* CategoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2280326A2A4E286B00BB501C /* CategoryModel.swift */; };
+		2280326D2A4E291C00BB501C /* CategoryCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2280326C2A4E291C00BB501C /* CategoryCollectionViewCell.swift */; };
+		2280328C2A4E5E8100BB501C /* mickey_donald.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032822A4E5E8100BB501C /* mickey_donald.mp4 */; };
+		2280328E2A4E5E8100BB501C /* kairat__cut.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032842A4E5E8100BB501C /* kairat__cut.mp4 */; };
+		2280328F2A4E5E8100BB501C /* aminepohi.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032852A4E5E8100BB501C /* aminepohi.mp4 */; };
+		228032902A4E5E8100BB501C /* milord.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032862A4E5E8100BB501C /* milord.mp4 */; };
+		228032912A4E5E8100BB501C /* taswhite.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032872A4E5E8100BB501C /* taswhite.mp4 */; };
+		228032922A4E5E8100BB501C /* nihaoma.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032882A4E5E8100BB501C /* nihaoma.mp4 */; };
+		228032932A4E5E8100BB501C /* nan_cut.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032892A4E5E8100BB501C /* nan_cut.mp4 */; };
+		228032942A4E5E8100BB501C /* sb.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280328A2A4E5E8100BB501C /* sb.mp4 */; };
+		228032952A4E5E8100BB501C /* benzema.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280328B2A4E5E8100BB501C /* benzema.mp4 */; };
+		228032972A4E62BB00BB501C /* shrek_cut.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032962A4E62BB00BB501C /* shrek_cut.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,10 +50,33 @@
 		22082D762A4D893300B5520B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2280323D2A4DD72300BB501C /* MemeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeModel.swift; sourceTree = "<group>"; };
 		2280323F2A4DD84600BB501C /* egg.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = egg.mp4; sourceTree = "<group>"; };
-		228032412A4DD87100BB501C /* shrek4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shrek4.jpeg; sourceTree = "<group>"; };
 		228032432A4DD91400BB501C /* kairosh1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kairosh1.png; sourceTree = "<group>"; };
 		228032452A4DDA5400BB501C /* AVPlayerViewWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVPlayerViewWrapper.swift; sourceTree = "<group>"; };
 		228032492A4DEC5100BB501C /* didar.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = didar.mp4; sourceTree = "<group>"; };
+		2280324B2A4E069A00BB501C /* aktau_sila.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = aktau_sila.mp4; sourceTree = "<group>"; };
+		2280324C2A4E069A00BB501C /* chotam.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = chotam.mp4; sourceTree = "<group>"; };
+		2280324D2A4E069A00BB501C /* bas_shu.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = bas_shu.mp4; sourceTree = "<group>"; };
+		2280324E2A4E069A00BB501C /* bank_kartoshkasy.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = bank_kartoshkasy.mp4; sourceTree = "<group>"; };
+		2280324F2A4E069A00BB501C /* sorpa.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = sorpa.mp4; sourceTree = "<group>"; };
+		228032502A4E069A00BB501C /* rinat.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = rinat.mp4; sourceTree = "<group>"; };
+		228032512A4E069A00BB501C /* kaban.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = kaban.mp4; sourceTree = "<group>"; };
+		228032522A4E069A00BB501C /* menin_omirim.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = menin_omirim.mp4; sourceTree = "<group>"; };
+		228032532A4E069A00BB501C /* shashlyk.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = shashlyk.mp4; sourceTree = "<group>"; };
+		228032602A4E213D00BB501C /* MemeCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeCollectionView.swift; sourceTree = "<group>"; };
+		228032622A4E215F00BB501C /* MemeCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeCardView.swift; sourceTree = "<group>"; };
+		228032682A4E282E00BB501C /* CategoryCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCollectionView.swift; sourceTree = "<group>"; };
+		2280326A2A4E286B00BB501C /* CategoryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryModel.swift; sourceTree = "<group>"; };
+		2280326C2A4E291C00BB501C /* CategoryCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCollectionViewCell.swift; sourceTree = "<group>"; };
+		228032822A4E5E8100BB501C /* mickey_donald.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = mickey_donald.mp4; sourceTree = "<group>"; };
+		228032842A4E5E8100BB501C /* kairat__cut.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = kairat__cut.mp4; sourceTree = "<group>"; };
+		228032852A4E5E8100BB501C /* aminepohi.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = aminepohi.mp4; sourceTree = "<group>"; };
+		228032862A4E5E8100BB501C /* milord.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = milord.mp4; sourceTree = "<group>"; };
+		228032872A4E5E8100BB501C /* taswhite.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = taswhite.mp4; sourceTree = "<group>"; };
+		228032882A4E5E8100BB501C /* nihaoma.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = nihaoma.mp4; sourceTree = "<group>"; };
+		228032892A4E5E8100BB501C /* nan_cut.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = nan_cut.mp4; sourceTree = "<group>"; };
+		2280328A2A4E5E8100BB501C /* sb.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = sb.mp4; sourceTree = "<group>"; };
+		2280328B2A4E5E8100BB501C /* benzema.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = benzema.mp4; sourceTree = "<group>"; };
+		228032962A4E62BB00BB501C /* shrek_cut.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = shrek_cut.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,13 +109,11 @@
 		22082D6E2A4D893200B5520B /* Memes */ = {
 			isa = PBXGroup;
 			children = (
+				2280325F2A4E210500BB501C /* Views */,
+				2280325E2A4E1EFE00BB501C /* Models */,
+				2280325D2A4E1EB700BB501C /* MemeVideos */,
 				22082D6F2A4D893200B5520B /* MemesApp.swift */,
 				22082D712A4D893200B5520B /* ContentView.swift */,
-				228032452A4DDA5400BB501C /* AVPlayerViewWrapper.swift */,
-				2280323D2A4DD72300BB501C /* MemeModel.swift */,
-				228032492A4DEC5100BB501C /* didar.mp4 */,
-				2280323F2A4DD84600BB501C /* egg.mp4 */,
-				228032412A4DD87100BB501C /* shrek4.jpeg */,
 				22082D732A4D893300B5520B /* Assets.xcassets */,
 				22082D752A4D893300B5520B /* Preview Content */,
 			);
@@ -83,6 +127,55 @@
 				22082D762A4D893300B5520B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2280325D2A4E1EB700BB501C /* MemeVideos */ = {
+			isa = PBXGroup;
+			children = (
+				228032962A4E62BB00BB501C /* shrek_cut.mp4 */,
+				228032852A4E5E8100BB501C /* aminepohi.mp4 */,
+				2280328B2A4E5E8100BB501C /* benzema.mp4 */,
+				228032842A4E5E8100BB501C /* kairat__cut.mp4 */,
+				228032822A4E5E8100BB501C /* mickey_donald.mp4 */,
+				228032862A4E5E8100BB501C /* milord.mp4 */,
+				228032892A4E5E8100BB501C /* nan_cut.mp4 */,
+				228032882A4E5E8100BB501C /* nihaoma.mp4 */,
+				2280328A2A4E5E8100BB501C /* sb.mp4 */,
+				228032872A4E5E8100BB501C /* taswhite.mp4 */,
+				2280324B2A4E069A00BB501C /* aktau_sila.mp4 */,
+				2280324E2A4E069A00BB501C /* bank_kartoshkasy.mp4 */,
+				2280324D2A4E069A00BB501C /* bas_shu.mp4 */,
+				2280324C2A4E069A00BB501C /* chotam.mp4 */,
+				228032512A4E069A00BB501C /* kaban.mp4 */,
+				228032522A4E069A00BB501C /* menin_omirim.mp4 */,
+				228032502A4E069A00BB501C /* rinat.mp4 */,
+				228032532A4E069A00BB501C /* shashlyk.mp4 */,
+				2280324F2A4E069A00BB501C /* sorpa.mp4 */,
+				228032492A4DEC5100BB501C /* didar.mp4 */,
+				2280323F2A4DD84600BB501C /* egg.mp4 */,
+			);
+			path = MemeVideos;
+			sourceTree = "<group>";
+		};
+		2280325E2A4E1EFE00BB501C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2280323D2A4DD72300BB501C /* MemeModel.swift */,
+				2280326A2A4E286B00BB501C /* CategoryModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		2280325F2A4E210500BB501C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				228032452A4DDA5400BB501C /* AVPlayerViewWrapper.swift */,
+				228032602A4E213D00BB501C /* MemeCollectionView.swift */,
+				228032622A4E215F00BB501C /* MemeCardView.swift */,
+				228032682A4E282E00BB501C /* CategoryCollectionView.swift */,
+				2280326C2A4E291C00BB501C /* CategoryCollectionViewCell.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -143,10 +236,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				228032422A4DD87100BB501C /* shrek4.jpeg in Resources */,
+				228032542A4E069A00BB501C /* aktau_sila.mp4 in Resources */,
+				2280328C2A4E5E8100BB501C /* mickey_donald.mp4 in Resources */,
+				228032922A4E5E8100BB501C /* nihaoma.mp4 in Resources */,
 				228032402A4DD84600BB501C /* egg.mp4 in Resources */,
+				228032972A4E62BB00BB501C /* shrek_cut.mp4 in Resources */,
 				22082D772A4D893300B5520B /* Preview Assets.xcassets in Resources */,
 				228032442A4DD91500BB501C /* kairosh1.png in Resources */,
+				2280325C2A4E069A00BB501C /* shashlyk.mp4 in Resources */,
+				228032932A4E5E8100BB501C /* nan_cut.mp4 in Resources */,
+				228032552A4E069A00BB501C /* chotam.mp4 in Resources */,
+				228032912A4E5E8100BB501C /* taswhite.mp4 in Resources */,
+				228032592A4E069A00BB501C /* rinat.mp4 in Resources */,
+				228032952A4E5E8100BB501C /* benzema.mp4 in Resources */,
+				228032572A4E069A00BB501C /* bank_kartoshkasy.mp4 in Resources */,
+				2280328F2A4E5E8100BB501C /* aminepohi.mp4 in Resources */,
+				2280325B2A4E069A00BB501C /* menin_omirim.mp4 in Resources */,
+				228032562A4E069A00BB501C /* bas_shu.mp4 in Resources */,
+				228032582A4E069A00BB501C /* sorpa.mp4 in Resources */,
+				228032902A4E5E8100BB501C /* milord.mp4 in Resources */,
+				2280325A2A4E069A00BB501C /* kaban.mp4 in Resources */,
+				2280328E2A4E5E8100BB501C /* kairat__cut.mp4 in Resources */,
+				228032942A4E5E8100BB501C /* sb.mp4 in Resources */,
 				2280324A2A4DEC5100BB501C /* didar.mp4 in Resources */,
 				22082D742A4D893300B5520B /* Assets.xcassets in Resources */,
 			);
@@ -160,9 +271,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				228032462A4DDA5400BB501C /* AVPlayerViewWrapper.swift in Sources */,
+				228032692A4E282E00BB501C /* CategoryCollectionView.swift in Sources */,
 				22082D722A4D893200B5520B /* ContentView.swift in Sources */,
 				2280323E2A4DD72300BB501C /* MemeModel.swift in Sources */,
+				2280326D2A4E291C00BB501C /* CategoryCollectionViewCell.swift in Sources */,
 				22082D702A4D893200B5520B /* MemesApp.swift in Sources */,
+				2280326B2A4E286B00BB501C /* CategoryModel.swift in Sources */,
+				228032632A4E215F00BB501C /* MemeCardView.swift in Sources */,
+				228032612A4E213D00BB501C /* MemeCollectionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
