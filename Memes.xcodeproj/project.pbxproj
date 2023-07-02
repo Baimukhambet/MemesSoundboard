@@ -18,7 +18,6 @@
 		2280324A2A4DEC5100BB501C /* didar.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032492A4DEC5100BB501C /* didar.mp4 */; };
 		228032542A4E069A00BB501C /* aktau_sila.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280324B2A4E069A00BB501C /* aktau_sila.mp4 */; };
 		228032552A4E069A00BB501C /* chotam.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280324C2A4E069A00BB501C /* chotam.mp4 */; };
-		228032562A4E069A00BB501C /* bas_shu.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280324D2A4E069A00BB501C /* bas_shu.mp4 */; };
 		228032572A4E069A00BB501C /* bank_kartoshkasy.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280324E2A4E069A00BB501C /* bank_kartoshkasy.mp4 */; };
 		228032582A4E069A00BB501C /* sorpa.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280324F2A4E069A00BB501C /* sorpa.mp4 */; };
 		228032592A4E069A00BB501C /* rinat.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032502A4E069A00BB501C /* rinat.mp4 */; };
@@ -40,6 +39,7 @@
 		228032942A4E5E8100BB501C /* sb.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280328A2A4E5E8100BB501C /* sb.mp4 */; };
 		228032952A4E5E8100BB501C /* benzema.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280328B2A4E5E8100BB501C /* benzema.mp4 */; };
 		228032972A4E62BB00BB501C /* shrek_cut.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 228032962A4E62BB00BB501C /* shrek_cut.mp4 */; };
+		2280329D2A4E6E0F00BB501C /* bas_shu.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2280329C2A4E6E0F00BB501C /* bas_shu.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,7 +55,6 @@
 		228032492A4DEC5100BB501C /* didar.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = didar.mp4; sourceTree = "<group>"; };
 		2280324B2A4E069A00BB501C /* aktau_sila.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = aktau_sila.mp4; sourceTree = "<group>"; };
 		2280324C2A4E069A00BB501C /* chotam.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = chotam.mp4; sourceTree = "<group>"; };
-		2280324D2A4E069A00BB501C /* bas_shu.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = bas_shu.mp4; sourceTree = "<group>"; };
 		2280324E2A4E069A00BB501C /* bank_kartoshkasy.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = bank_kartoshkasy.mp4; sourceTree = "<group>"; };
 		2280324F2A4E069A00BB501C /* sorpa.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = sorpa.mp4; sourceTree = "<group>"; };
 		228032502A4E069A00BB501C /* rinat.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = rinat.mp4; sourceTree = "<group>"; };
@@ -77,6 +76,7 @@
 		2280328A2A4E5E8100BB501C /* sb.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = sb.mp4; sourceTree = "<group>"; };
 		2280328B2A4E5E8100BB501C /* benzema.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = benzema.mp4; sourceTree = "<group>"; };
 		228032962A4E62BB00BB501C /* shrek_cut.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = shrek_cut.mp4; sourceTree = "<group>"; };
+		2280329C2A4E6E0F00BB501C /* bas_shu.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = bas_shu.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +132,7 @@
 		2280325D2A4E1EB700BB501C /* MemeVideos */ = {
 			isa = PBXGroup;
 			children = (
+				2280329C2A4E6E0F00BB501C /* bas_shu.mp4 */,
 				228032962A4E62BB00BB501C /* shrek_cut.mp4 */,
 				228032852A4E5E8100BB501C /* aminepohi.mp4 */,
 				2280328B2A4E5E8100BB501C /* benzema.mp4 */,
@@ -144,7 +145,6 @@
 				228032872A4E5E8100BB501C /* taswhite.mp4 */,
 				2280324B2A4E069A00BB501C /* aktau_sila.mp4 */,
 				2280324E2A4E069A00BB501C /* bank_kartoshkasy.mp4 */,
-				2280324D2A4E069A00BB501C /* bas_shu.mp4 */,
 				2280324C2A4E069A00BB501C /* chotam.mp4 */,
 				228032512A4E069A00BB501C /* kaban.mp4 */,
 				228032522A4E069A00BB501C /* menin_omirim.mp4 */,
@@ -251,8 +251,8 @@
 				228032952A4E5E8100BB501C /* benzema.mp4 in Resources */,
 				228032572A4E069A00BB501C /* bank_kartoshkasy.mp4 in Resources */,
 				2280328F2A4E5E8100BB501C /* aminepohi.mp4 in Resources */,
+				2280329D2A4E6E0F00BB501C /* bas_shu.mp4 in Resources */,
 				2280325B2A4E069A00BB501C /* menin_omirim.mp4 in Resources */,
-				228032562A4E069A00BB501C /* bas_shu.mp4 in Resources */,
 				228032582A4E069A00BB501C /* sorpa.mp4 in Resources */,
 				228032902A4E5E8100BB501C /* milord.mp4 in Resources */,
 				2280325A2A4E069A00BB501C /* kaban.mp4 in Resources */,
